@@ -6,7 +6,6 @@ import App from './App.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* another cahnge to the file */}
     <App />
   </React.StrictMode>,
 )
